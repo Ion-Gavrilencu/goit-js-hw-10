@@ -21,8 +21,8 @@ body {
 }
 
 .cat-info img {
-    max-width: 100%;
-    height: auto;
+    width: 600px;
+    height: 500px;
 }
 
 .cat-info h2 {
